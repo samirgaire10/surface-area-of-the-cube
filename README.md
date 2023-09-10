@@ -21,7 +21,8 @@ Go to the project directory
 compile c file
 
 ```bash
-gcc -o surface-area-of-the-cube.o  surface-area-of-the-cube.c```
+gcc -o surface-area-of-the-cube.o  surface-area-of-the-cube.c
+```
 
 Run 
 ```bash
